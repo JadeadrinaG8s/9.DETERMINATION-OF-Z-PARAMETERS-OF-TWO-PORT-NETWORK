@@ -50,5 +50,6 @@ e)	Switch ‘OFF’ the supply after taking thereadings.
 
 
 **RESULT:**
+<img width="1072" height="591" alt="WhatsApp Image 2026-05-30 at 8 44 36 AM" src="https://github.com/user-attachments/assets/3de43a3f-d666-49d2-a0f3-bd8aebeac45e" />
 
 The Z-parameters of the two port network has been calculated and verified by using Multisim Simulator.
